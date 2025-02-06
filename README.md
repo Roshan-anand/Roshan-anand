@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Currently Open to Work as a Frontend First FullStack Dev<br>
+I'm Currently Open to Work as a Backend First FullStack Dev<br>
 
 
 ## 🌐 Socials:

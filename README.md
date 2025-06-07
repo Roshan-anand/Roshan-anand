@@ -1,12 +1,14 @@
 <h3 align="center">Hi 👋, I'm Roshan Anand</h1>
 
 # About me :
+
 - 🙋🏽 i'm a **Backend first fullstack** developer from **India**
-- 🔭 I’m currently working on **[GO POD](https://github.com/Roshan2022Anand/go-pod)**
+- 🔭 I’m currently working on **[GO POD](https://github.com/Roshan-anand/go-pod)**
 - 🌱 I’m currently learning **Backend technologies like NodeJS and GOlang**
 - ⚡ Fun fact **I will be productive from day one in any code base**
 
 # Connect on :
+
 <p align="left" >
 <a href="https://twitter.com/r0shan_anand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="r0shan_anand" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/roshan-anand-a92b1a23a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/roshan-anand-a92b1a23a/" height="30" width="60" /></a>
@@ -14,6 +16,7 @@
 </p>
 
 # 💻 Tech Stack :
+
 <p align="left">
   <a href="https://golang.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"
@@ -70,6 +73,7 @@
 </p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Roshan2022Anand&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Roshan2022Anand&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Roshan2022Anand&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+![](https://github-readme-stats.vercel.app/api?username=Roshan-anand&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Roshan-anand&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Roshan-anand&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)

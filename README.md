@@ -1,35 +1,75 @@
-# 💫 About Me:
-<p align="left">- 💻 Open to work as Backend First Fullstack developer<br><br>- 🧠 Good at figuring out things</p>
+<h3 align="center">Hi 👋, I'm Roshan Anand</h1>
 
-# 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in//roshan-anand-a92b1a23a/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/R0SHAN_ANAND) 
+# About me :
+- 🙋🏽 i'm a **Backend first fullstack** developer from **India**
+- 🔭 I’m currently working on **[GO POD](https://github.com/Roshan2022Anand/go-pod)**
+- 🌱 I’m currently learning **Backend technologies like NodeJS and GOlang**
+- ⚡ Fun fact **I will be productive from day one in any code base**
 
-# 💻 Tech Stack:
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-</div>
+# Connect on :
+<p align="left" >
+<a href="https://twitter.com/r0shan_anand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="r0shan_anand" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/roshan-anand-a92b1a23a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/roshan-anand-a92b1a23a/" height="30" width="60" /></a>
+<a href="https://discord.gg/https://discord.com/channels/@me/1257188313618583583" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/channels/@me/1257188313618583583" height="30" width="40" /></a>
+</p>
+
+# 💻 Tech Stack :
+<p align="left">
+  <a href="https://golang.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"
+         alt="Go" width="40" height="40" />
+  </a>&ensp;
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+         alt="TypeScript" width="40" height="40" />
+  </a>&ensp;
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+         alt="Node.js" width="40" height="40" />
+  </a>&ensp;
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
+         alt="PostgreSQL" width="40" height="40" />
+  </a>&ensp;
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"
+         alt="Docker" width="40" height="40" />
+  </a>&ensp;
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+         alt="Git" width="40" height="40" />
+  </a>&ensp;
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
+         alt="Express.js" width="40" height="40" />
+  </a>&ensp;
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+         alt="MongoDB" width="40" height="40" />
+  </a>&ensp;
+  <a href="https://nginx.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"
+         alt="Nginx" width="40" height="40" />
+  </a>&ensp;
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+         alt="React" width="40" height="40" />
+  </a>&ensp;
+  <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
+         alt="Redux" width="40" height="40" />
+  </a>&ensp;
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
+         alt="Tailwind CSS" width="40" height="40" />
+  </a>&ensp;
+  <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
+         alt="Jest" width="40" height="40" />
+  </a>
+</p>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Roshan2022Anand&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Roshan2022Anand&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Roshan2022Anand&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=Roshan2022Anand&icon=0&color=0)](https://visitcount.itsvg.in)
-

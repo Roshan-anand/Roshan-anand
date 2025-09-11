@@ -3,7 +3,6 @@
 # About me :
 
 - 🙋🏽 i'm a **Backend first fullstack** developer from **India**
-- 🔭 I’m currently working on **[GO POD](https://github.com/Roshan-anand/go-pod)**
 - 🌱 I’m currently learning **Backend technologies like NodeJS and GOlang**
 - ⚡ Fun fact **I will be productive from day one in any code base**
 

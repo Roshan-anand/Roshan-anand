@@ -3,7 +3,7 @@
 # About me :
 
 - 🙋🏽 i'm a **Backend first fullstack** developer from **India**
-- 🌱 I’m currently learning **Backend technologies like NodeJS and GOlang**
+- 🌱 I’m currently learning **Backend technologies like NodeJS**
 - ⚡ Fun fact **I will be productive from day one in any code base**
 
 # Connect on :

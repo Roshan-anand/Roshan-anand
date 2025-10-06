@@ -2,9 +2,8 @@
 
 # About me :
 
-- 🙋🏽 i'm a **Backend first fullstack** developer from **India**
-- 🌱 I’m currently learning **Backend technologies like NodeJS**
-- ⚡ Fun fact **I will be productive from day one in any code base**
+- 🙋🏽 Just **FullStack** with a pinch of **GenAI**
+- ⚡ Fun fact **Im high agency**
 
 # Connect on :
 

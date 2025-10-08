@@ -36,34 +36,10 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
          alt="Git" width="40" height="40" />
   </a>&ensp;
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
-         alt="Express.js" width="40" height="40" />
-  </a>&ensp;
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-         alt="MongoDB" width="40" height="40" />
-  </a>&ensp;
-  <a href="https://nginx.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"
-         alt="Nginx" width="40" height="40" />
-  </a>&ensp;
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
          alt="React" width="40" height="40" />
   </a>&ensp;
-  <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
-         alt="Redux" width="40" height="40" />
-  </a>&ensp;
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-         alt="Tailwind CSS" width="40" height="40" />
-  </a>&ensp;
-  <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
-         alt="Jest" width="40" height="40" />
-  </a>
 </p>
 
 # 📊 GitHub Stats:

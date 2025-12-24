@@ -2,7 +2,7 @@
 
 # About me :
 
-- 🙋🏽 Just **FullStack** with a pinch of **GenAI**
+- 🙋🏽 Just a normal **Backend Dev**
 - ⚡ Fun fact **Im high agency**
 
 <br/>

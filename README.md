@@ -1,7 +1,8 @@
 <h3 align="center">Hi 👋, I'm Roshan Anand</h1>
 
 # 💫 About Me:
- 🙋🏽 Backend Cloud AI, that's me!<br>
+ 🙋🏽 Backend Cloud, that's me!<br>
+ 🔨 currently working on [GOdploy](https://github.com/Roshan-anand/godploy)
 
 
 ## 🌐 Socials:

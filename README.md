@@ -8,9 +8,9 @@
 [![Discord](https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discordapp.com/users/1114575128190271530)
 [![Reddit](https://img.shields.io/badge/Reddit-0d1117?style=for-the-badge&logo=reddit&logoColor=FF4500)](https://www.reddit.com/user/Roshan_anand)
 
-- Programming was just a coincidence
+- Programming was just a coincidence, so don't click this [rshn](https://rshn.cloud)
 - Rust Intern [@naviget](https://naviget.in)
-- Building [HASU](https://github.com/Roshan-anand/hasu), A self host PAAS for deployment.
+- Building [HASU](https://github.com/Roshan-anand/hasu), A self host PAAS for deployment
 - u can reach me at [rosh4nanand@gmail.com](https://mail.google.com/mail/u/0/?fs=1&to=roshan4nand@gmail.com&tf=cm)
 
 ## I work on anything around
